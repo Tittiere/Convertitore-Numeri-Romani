@@ -148,4 +148,4 @@ while answ == 'Y' or answ == 'y':
     tipo, stringa = tipoNumero(stringa)
     trasforma(tipo, stringa)
     answ = input('Si vuole ripetere il processo?\n(Y/N)\n')
-print('Grazie per aver usato il programma\nVisita www.github.com/claristorio')
+print('Grazie per aver usato il programma\nVisita www.github.com/Tittiere')
